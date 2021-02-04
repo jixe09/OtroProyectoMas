@@ -9,6 +9,7 @@ public class MiPrimeraClase {
 	private static void otroMetodo() {
 		System.out.println("Otro metodo");
 		System.out.println("Otra cosa");
+		System.out.println("Otro mas");
 	}
 
 }
